@@ -52,3 +52,10 @@ This program is uses Flocking csv from the swarm behaviour dataset, student numb
 
 
 ## A5 (assignment 5)
+### Part A)
+The purpose of this is using the best inertia to quantize the colour for the second image.
+
+### Part B)
+MLP does beter than linear regression because the data set is scattered which fits the many hidden layers I set for MLP.
+
+https://archive.ics.uci.edu/ml/datasets/Behavior+of+the+urban+traffic+of+the+city+of+Sao+Paulo+in+Brazil
