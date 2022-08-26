@@ -15,7 +15,7 @@ phishingData = []
 labels = []
 
 # Read csv file
-with open("PhishingData.csv") as file:
+with open("./../PhishingData.csv") as file:
     reader = csv.DictReader(file, delimiter=",")
     # loop through lines and append to arrays by column names
     for row in reader:
