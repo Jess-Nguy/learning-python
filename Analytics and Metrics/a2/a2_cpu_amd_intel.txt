@@ -1,0 +1,1151 @@
+#
+# The data for this text file was derived from 
+#
+# https://www.cpubenchmark.net/singleThread.html
+# 
+# on Jan 30th, 2022
+#
+# The data is loosely structured and lists names, performance metrics, and
+# recent cost estimates of various AMD and Intel processors. The data is
+# not complete in all case. Some processors (like AMD Ryzen 5900) have no 
+# dollar figure associated with them. 
+#
+# Performance metrics are provided for single threaded behaviour in the 2nd
+# to the last column. The AMD Ryzen 5900 is rated at 3,492 "CPUmarks". Parallel
+# computing remains a dark art, and unless you are running a server with many
+# clients there is generally little advantage to using a CPU with more than
+# 6 cores. For typical consumer use, single threaded performance and price
+# are the most important metrics to consider when purchasing a CPU. Notice 
+# that the AMD Ryzen Threadripper PRO 3995WX has a price of over $6000 but
+# its single CPU performance is relatively low compared to other options.
+#
+# The full details of the measurement procedure are described on the web site,
+# along with many other interesting metrics. 
+
+
+AMD Ryzen 9 5950X (71%) 3,498 $684.99
+AMD Ryzen 9 5900X (71%) 3,495 $499.99
+AMD Ryzen 7 5800X (71%) 3,492 $349.99
+AMD Ryzen 9 5900 (70%) 3,438 NA
+AMD Ryzen 7 5800 (69%) 3,396 NA
+AMD Ryzen 7 PRO 5750G (69%) 3,388 NA
+AMD Ryzen 5 5600X (69%) 3,381 $259.99
+AMD Ryzen 7 5700GE (69%) 3,371 NA
+AMD Ryzen 7 PRO 5750GE (68%) 3,332 NA
+AMD Ryzen 7 5700G (67%) 3,295 $309.96
+AMD Ryzen 5 PRO 5650G (66%) 3,245 NA
+AMD Ryzen 5 PRO 5650GE (66%) 3,236 NA
+AMD Ryzen 5 5600GE (66%) 3,224 NA
+AMD Ryzen 5 5600G (65%) 3,196 $221.50
+AMD Ryzen 3 PRO 5350GE (63%) 3,106 NA
+AMD Ryzen 3 PRO 5350G (63%) 3,105 NA
+AMD Ryzen 3 5300GE (63%) 3,104 NA
+AMD Ryzen 3 5300G (62%) 3,063 NA
+AMD Ryzen 7 3800XT (58%) 2,849 $382.50
+AMD Ryzen 5 3600XT (57%) 2,795 $459.00
+AMD Ryzen 9 3900XT (57%) 2,788 $785.99
+AMD Ryzen 7 4700G (56%) 2,757 $319.00*
+AMD Ryzen 9 3950X (56%) 2,739 $826.99
+AMD Ryzen 7 3800X (56%) 2,738 $334.99
+AMD Ryzen 7 4700GE (56%) 2,733 NA
+AMD Ryzen 9 3900X (55%) 2,727 $548.97
+AMD Ryzen 7 PRO 4750GE (55%) 2,712 NA
+AMD Ryzen Threadripper PRO 3945WX (55%) 2,711 NA
+AMD Ryzen 7 PRO 4750G (55%) 2,705 $599.00
+AMD Ryzen 7 PRO 4700G (55%) 2,700 NA
+AMD Ryzen Threadripper PRO 3955WX (55%) 2,698 $1,116.99
+AMD Ryzen Threadripper 3970X (55%) 2,697 $2,484.18
+AMD Ryzen 3 3300X (55%) 2,691 $315.00
+AMD Ryzen 7 3700X (55%) 2,684 $334.91
+AMD Ryzen Threadripper 3960X (54%) 2,680 $1,799.96
+AMD Ryzen 7 PRO 3700 (54%) 2,677 $329.99*
+AMD Ryzen 5 3600X (54%) 2,671 $272.86
+AMD Ryzen 5 PRO 4650G (54%) 2,666 $257.36*
+AMD Ryzen Threadripper PRO 3975WX (54%) 2,665 $3,499.00
+AMD Ryzen 5 4600G (54%) 2,660 NA
+AMD Ryzen 5 PRO 4400G (54%) 2,656 NA
+AMD Ryzen 9 3900 (53%) 2,632 $634.00*
+AMD Ryzen 9 PRO 3900 (53%) 2,631 NA
+AMD Ryzen Threadripper PRO 3995WX (53%) 2,625 $6,643.99
+AMD Ryzen 5 PRO 4650GE (53%) 2,621 NA
+AMD Ryzen 5 PRO 3600 (53%) 2,615 NA
+AMD Ryzen 5 4600GE (53%) 2,605 NA
+AMD Ryzen 5 3600 (52%) 2,578 $219.99
+AMD Ryzen 3 PRO 4350GE (52%) 2,574 NA
+AMD Ryzen Threadripper 3990X (52%) 2,569 $5,154.00*
+AMD Ryzen 3 PRO 4200G (52%) 2,564 NA
+AMD Ryzen 3 4300GE (52%) 2,561 NA
+AMD Ryzen 3 4300G (52%) 2,551 NA
+AMD Ryzen 3 PRO 4350G (52%) 2,540 NA
+AMD Ryzen 5 3500X (51%) 2,531 $219.99
+AMD Ryzen 5 3500 (51%) 2,519 NA
+AMD Ryzen Threadripper 2920X (51%) 2,494 $761.00*
+AMD Ryzen Threadripper 2950X (50%) 2,481 $999.99
+AMD Ryzen 7 2700X (49%) 2,437 $414.99
+AMD Ryzen 3 3100 (49%) 2,429 $177.95
+AMD Ryzen 7 2700E (49%) 2,410 NA
+AMD Ryzen 5 2600X (49%) 2,408 $179.99
+AMD 4700S (49%) 2,401 NA
+AMD Ryzen 7 PRO 2700X (49%) 2,395 NA
+AMD Ryzen 5 3400G (48%) 2,362 $269.99
+AMD Ryzen 3 2300X (48%) 2,361 $178.09*
+AMD Ryzen Threadripper 2970WX (48%) 2,348 $1,100.00
+AMD Ryzen 5 3350GE (48%) 2,342 NA
+AMD Ryzen Threadripper 1900X (47%) 2,341 $179.99
+AMD Ryzen 5 PRO 3350GE (47%) 2,340 NA
+AMD Ryzen 5 PRO 3350G (47%) 2,332 NA
+AMD Ryzen 5 PRO 3400G (47%) 2,323 NA
+AMD Athlon Gold PRO 3150G (47%) 2,321 NA
+AMD Ryzen 5 2500X (47%) 2,319 NA
+AMD Ryzen 5 3400GE (47%) 2,319 NA
+AMD Ryzen Threadripper 2990WX (47%) 2,315 $2,366.76*
+AMD Ryzen Threadripper 1920 (47%) 2,299 NA
+AMD Ryzen Threadripper 1920X (47%) 2,295 $299.99*
+AMD Ryzen Threadripper 1950X (46%) 2,292 $999.99*
+AMD Ryzen 5 3350G (46%) 2,289 NA
+AMD Ryzen Threadripper 2990X (46%) 2,285 NA
+AMD Ryzen 5 PRO 3400GE (46%) 2,264 NA
+AMD Ryzen 5 PRO 2600 (46%) 2,263 NA
+AMD Ryzen 5 2600 (46%) 2,251 $181.47
+AMD Ryzen 7 PRO 1700X (45%) 2,231 NA
+AMD Ryzen 3 PRO 1300 (45%) 2,229 NA
+AMD Ryzen 3 PRO 3200G (45%) 2,223 NA
+AMD Ryzen 3 3200G (45%) 2,221 $285.00
+AMD Ryzen 3 3200GE (45%) 2,203 NA
+AMD Ryzen 7 2700 (45%) 2,197 $220.00
+AMD Ryzen 7 PRO 2700 (44%) 2,186 NA
+AMD Ryzen 7 1800X (44%) 2,185 $216.39
+AMD Ryzen 5 1600X (44%) 2,182 $159.49
+AMD Ryzen 5 2400GE (44%) 2,180 NA
+AMD Athlon Gold PRO 3150GE (44%) 2,178 NA
+AMD Ryzen 5 2400G (44%) 2,162 $230.77
+AMD Ryzen 5 PRO 1500 (44%) 2,158 NA
+AMD Ryzen Embedded V1756B (43%) 2,143 NA
+AMD Ryzen 5 PRO 2400G (43%) 2,138 NA
+AMD Ryzen 5 PRO 2400GE (43%) 2,138 NA
+AMD Ryzen 5 1500X (43%) 2,109 $139.99
+AMD Ryzen 3 1300X (42%) 2,089 $120.00
+AMD Ryzen 5 1600 (42%) 2,077 $126.73
+AMD Athlon Silver PRO 3125GE (42%) 2,074 NA
+AMD Ryzen 7 1700X (42%) 2,073 $200.00
+AMD Ryzen 3 2200G (42%) 2,063 $158.95
+AMD Ryzen 3 PRO 2200G (42%) 2,050 NA
+AMD Ryzen 7 PRO 1700 (41%) 2,037 NA
+AMD Ryzen 3 2200GE (41%) 2,031 NA
+AMD Athlon 240GE (41%) 2,001 $138.00*
+AMD Ryzen 3 PRO 2200GE (41%) 2,000 NA
+AMD Athlon 3000G (40%) 1,996 $54.99*
+AMD Ryzen 7 1700 (40%) 1,990 $180.00
+AMD Athlon PRO 300GE (39%) 1,948 NA
+AMD Ryzen 3 PRO 1200 (39%) 1,936 NA
+AMD Ryzen Embedded V1404I (39%) 1,932 NA
+AMD Ryzen 3 1200 (39%) 1,923 $98.25
+AMD Ryzen Embedded R1606G (39%) 1,919 NA
+AMD Ryzen 5 1400 (39%) 1,908 $96.40
+AMD Ryzen 3 PRO 2100GE (38%) 1,858 NA
+AMD Athlon 300GE (37%) 1,839 NA
+AMD FX-9590 Eight-Core (37%) 1,822 $344.04
+AMD Athlon PRO 200GE (37%) 1,821 NA
+AMD Athlon 200GE (37%) 1,817 $123.89*
+AMD Athlon 320GE (37%) 1,810 NA
+AMD PRO A12-9800 (36%) 1,775 $169.00*
+AMD PRO A12-8870 (35%) 1,718 NA
+AMD Ryzen 5 PRO 1600 (34%) 1,685 NA
+AMD Athlon X4 845 (34%) 1,676 $74.99
+AMD FX-9370 Eight-Core (34%) 1,675 $389.99
+AMD Athlon X4 950 (33%) 1,643 $133.00*
+AMD PRO A6-8570 (33%) 1,641 NA
+AMD A6-7480 (33%) 1,638 $43.99*
+AMD PRO A10-9700 (33%) 1,633 $169.00*
+AMD A6-6420B APU (33%) 1,629 NA
+AMD FX-8370 Eight-Core (33%) 1,628 $219.99
+AMD Athlon X4 880K (33%) 1,625 $99.99*
+AMD A10-8850 (33%) 1,624 NA
+AMD PRO A6-8550B (33%) 1,623 NA
+AMD PRO A6-9500 (33%) 1,618 $74.00*
+AMD A10-9700 (33%) 1,614 $119.99
+AMD A6-9500 (33%) 1,612 $76.88
+AMD PRO A10-8850B (33%) 1,611 NA
+AMD A12-9800E (33%) 1,610 $435.00
+AMD A6-6400B APU (32%) 1,608 NA
+AMD FX-4350 Quad-Core (32%) 1,604 $108.02
+AMD A10-6700 APU (32%) 1,598 $55.70
+AMD A10-6800K APU (32%) 1,594 $78.68
+AMD A10 PRO-7850B APU (32%) 1,587 $148.02
+AMD A10-7890K (32%) 1,586 $167.00
+AMD A6-7470K (32%) 1,576 $39.99
+AMD FX-8350 Eight-Core (32%) 1,575 $106.73
+AMD A12-9800 (32%) 1,574 $118.46
+AMD PRO A10-8770 (32%) 1,573 NA
+AMD A10-6790K APU (32%) 1,569 $49.20
+AMD FX-670K Quad-Core (32%) 1,566 NA
+AMD FX-4330 (32%) 1,563 $733.50*
+AMD A6-6420K APU (31%) 1,557 $149.99*
+AMD Athlon X4 870K (31%) 1,552 $44.90
+AMD A4-6320 APU (31%) 1,550 $69.99*
+AMD A10-8750 (31%) 1,547 NA
+AMD PRO A12-9800E (31%) 1,546 $169.00*
+AMD FX-4320 (31%) 1,545 NA
+AMD FX-6350 Six-Core (31%) 1,544 $165.99
+AMD FX-6330 Six-Core (31%) 1,540 NA
+AMD A10-7860K (31%) 1,539 $93.00
+AMD Athlon X4 860K (31%) 1,537 $29.99
+AMD A8-6600K APU (31%) 1,528 $39.50
+AMD A10-5800B APU (31%) 1,526 $44.99*
+AMD A10-7850K APU (31%) 1,523 $76.38
+AMD A4 PRO-7300B APU (31%) 1,522 NA
+AMD A8-6500B APU (31%) 1,520 $49.95*
+AMD A8-7670K (31%) 1,516 $94.37*
+AMD A10-6800B APU (31%) 1,513 $128.02*
+AMD A8-7500 (30%) 1,509 NA
+AMD Athlon X4 760K Quad Core (30%) 1,509 $18.00
+AMD PRO A12-8870E (30%) 1,505 NA
+AMD A10-5800K APU (30%) 1,503 $46.07*
+AMD FX-4170 Quad-Core (30%) 1,501 $48.50
+AMD Phenom II X6 1100T (30%) 1,501 $153.99
+AMD A10 PRO-7800B APU (30%) 1,500 NA
+AMD A8-6500 APU (30%) 1,495 $43.80
+AMD PRO A6-9500E (30%) 1,493 $74.00*
+AMD A10-7870K (30%) 1,493 $226.99*
+AMD FX-4300 Quad-Core (30%) 1,491 $23.95
+AMD PRO A8-8650B (30%) 1,490 NA
+AMD FX-6300 Six-Core (30%) 1,486 $47.29
+AMD FX-8300 Eight-Core (30%) 1,485 $76.85
+AMD A8-9600 (30%) 1,483 $89.89
+AMD FirePro A320 APU (30%) 1,482 NA
+AMD A4-7300 APU (30%) 1,480 $79.99
+AMD A6-9500E (30%) 1,478 $74.99
+AMD FX-8370E Eight-Core (30%) 1,476 $25.14*
+AMD Athlon X4 840 (30%) 1,476 $124.95*
+AMD A6-8550 (30%) 1,474 NA
+AMD FX-8320 Eight-Core (30%) 1,473 $72.48
+AMD A6 PRO-7400B (30%) 1,473 NA
+AMD PRO A8-9600 (30%) 1,468 $119.00*
+AMD FX-4150 Quad-Core (30%) 1,465 NA
+AMD Phenom II X6 1090T (29%) 1,452 $100.00
+AMD PRO A10-8770E (29%) 1,447 NA
+AMD A8-7600 APU (29%) 1,447 $60.99*
+AMD A10-7800 APU (29%) 1,443 $53.18
+AMD A9-9430 (29%) 1,441 NA
+AMD A4-6300 APU (29%) 1,440 $29.99
+AMD A10-5700 APU (29%) 1,439 $59.95*
+AMD FX-8310 Eight-Core (29%) 1,432 $831.15*
+AMD A6-6400K APU (29%) 1,427 $56.09*
+AMD FX-B4150 Quad-Core (29%) 1,425 $89.68*
+AMD A6-7400K APU (29%) 1,420 $39.67
+AMD A10-7700K APU (29%) 1,416 $63.47
+AMD FX-6120 Six-Core (29%) 1,415 $108.02
+AMD FX-8150 Eight-Core (28%) 1,414 $70.00
+AMD Phenom II X2 565 (28%) 1,413 $168.87*
+AMD FX-770K Quad-Core (28%) 1,413 NA
+AMD A8-5600K APU (28%) 1,410 $69.95
+AMD Phenom II X2 570 (28%) 1,408 NA
+AMD A8-8650 (28%) 1,408 NA
+AMD FX-8320E Eight-Core (28%) 1,406 $132.00
+AMD Athlon II X3 460 (28%) 1,390 $29.99
+AMD FX-6130 Six-Core (28%) 1,390 NA
+AMD Phenom II X6 1075T (28%) 1,386 $52.00
+AMD PRO A8-8670E (28%) 1,382 NA
+AMD A8-5500B APU (28%) 1,381 $49.04*
+AMD FX-6200 Six-Core (28%) 1,381 $299.95
+AMD A6-5400B APU (28%) 1,380 $28.94*
+AMD A4-6300B APU (28%) 1,373 $27.95*
+AMD A8-7650K (28%) 1,370 $60.50
+AMD PRO A4-8350B (27%) 1,365 $28.99*
+AMD Phenom II X4 965 (27%) 1,363 $74.02
+AMD FX-4130 Quad-Core (27%) 1,361 $22.25
+AMD Phenom II X4 B65 (27%) 1,357 NA
+AMD Athlon X4 740 Quad Core (27%) 1,354 $27.49*
+AMD Athlon II X2 270 (27%) 1,353 $19.99*
+AMD Athlon II X2 B28 (27%) 1,347 $39.02
+AMD A4-5300 APU (27%) 1,346 $26.95*
+AMD Phenom II X6 1065T (27%) 1,346 $99.98*
+AMD Athlon II X4 557 (27%) 1,345 NA
+AMD Athlon II X2 265 (27%) 1,344 $15.50
+AMD Athlon II X3 455 (27%) 1,343 $139.95
+AMD Athlon X4 750 Quad Core (27%) 1,338 $94.75*
+AMD FX-8140 Eight-Core (27%) 1,336 $148.86*
+AMD A10-9700E (27%) 1,336 $243.00*
+AMD PRO A10-9700E (27%) 1,333 $139.00*
+AMD A8-5500 APU (27%) 1,330 $58.95*
+AMD FX-8120 Eight-Core (27%) 1,329 $53.95
+AMD Phenom II X4 B97 (27%) 1,326 $79.95*
+AMD FX-6100 Six-Core (27%) 1,317 $84.04
+AMD Phenom II X2 555 (26%) 1,315 $37.99
+AMD Phenom II X6 1055T (26%) 1,314 $48.00
+AMD A8 PRO-7600B APU (26%) 1,312 NA
+AMD Phenom II X4 B55 (26%) 1,310 NA
+AMD A10-6700T APU (26%) 1,310 $147.61*
+AMD Phenom II X4 955 (26%) 1,308 $176.18*
+AMD Phenom II X4 840 (26%) 1,308 $26.80
+AMD Sempron 240 (26%) 1,300 $36.10*
+AMD Athlon X4 830 (26%) 1,292 $202.32*
+AMD Athlon II X3 450 (26%) 1,292 $28.02
+AMD A4-5300B APU (26%) 1,291 $25.95*
+AMD Phenom II X6 1045T (26%) 1,285 $70.00
+AMD FX-4200 Quad-Core (26%) 1,285 $59.95*
+AMD Athlon II X3 445 (26%) 1,281 $145.90*
+AMD FX-4100 Quad-Core (26%) 1,280 $23.40
+AMD Phenom II X4 960T (26%) 1,277 $28.88
+AMD Phenom II X4 B50 (26%) 1,268 NA
+AMD Athlon II X4 645 (25%) 1,260 $28.86
+AMD A6-5400K APU (25%) 1,253 $52.02
+AMD PRO A10-8750B (25%) 1,248 NA
+AMD Phenom II X6 1405T (25%) 1,247 NA
+AMD Athlon II X2 255 (25%) 1,246 $29.99*
+AMD Phenom II X2 B55 (25%) 1,244 $37.95*
+AMD Athlon II X2 260 (25%) 1,244 $59.99
+AMD Phenom II X4 B95 (25%) 1,239 $62.02
+AMD Phenom II X2 550 (25%) 1,239 $68.99
+AMD A4-4020 APU (25%) 1,238 $91.00*
+AMD A8-3870K APU (25%) 1,233 $68.04
+AMD Phenom II X6 1035T (25%) 1,231 $108.00*
+AMD Phenom II X4 B40 (25%) 1,231 NA
+AMD Phenom II X4 945 (25%) 1,229 $28.90
+AMD Phenom II X2 545 (25%) 1,220 $43.98*
+AMD PRO A6-8570E (24%) 1,216 NA
+AMD Phenom II X4 B35 (24%) 1,215 NA
+AMD Phenom II X4 940 (24%) 1,210 $870.00
+AMD Phenom II X4 B70 (24%) 1,209 NA
+AMD Athlon II X3 440 (24%) 1,206 $89.95*
+AMD Athlon II X2 B24 (24%) 1,206 $24.10
+AMD Athlon II X4 640 (24%) 1,204 $16.00
+AMD A8-3850 APU (24%) 1,198 $68.02
+AMD Athlon II X4 641 Quad-Core (24%) 1,192 $16.49*
+AMD A4-4000 APU (24%) 1,191 $19.98
+AMD Athlon II X3 435 (24%) 1,185 $69.95*
+AMD Athlon II X4 638 Quad-Core (24%) 1,182 $62.85*
+AMD A4 PRO-7350B (24%) 1,174 NA
+AMD A4-3420 APU (24%) 1,171 $136.00*
+AMD Phenom II X2 B53 (23%) 1,164 NA
+AMD A6-9230 (23%) 1,158 NA
+AMD Phenom II X4 925 (23%) 1,156 $22.99
+AMD Phenom II X3 B75 (23%) 1,154 $49.95*
+AMD Athlon II X2 250 (23%) 1,153 $38.95
+AMD Athlon II X2 250e (23%) 1,153 $76.73*
+AMD Athlon II X2 245e (23%) 1,145 $19.99*
+AMD Athlon 64 X2 Dual Core 6400+ (23%) 1,142 $249.95*
+AMD Phenom II X4 B93 (23%) 1,141 NA
+AMD Athlon II X4 630 (23%) 1,140 $48.04
+AMD Phenom II X4 820 (23%) 1,137 $29.00*
+AMD A6-3670 APU (23%) 1,128 $176.59*
+AMD Athlon II X2 B22 (23%) 1,124 $25.95*
+AMD Athlon II X4 635 (23%) 1,123 $59.95
+AMD Phenom II X3 720 (22%) 1,119 $64.45*
+AMD Athlon II X4 631 Quad-Core (22%) 1,118 $9.98
+AMD A8-3820 APU (22%) 1,116 $44.95*
+AMD Athlon 7850 Dual-Core (22%) 1,110 $99.99
+AMD Athlon II X3 425 (22%) 1,109 $58.34*
+AMD Athlon II X2 245 (22%) 1,107 $59.99
+AMD Athlon II X2 235e (22%) 1,107 $97.50*
+AMD Athlon II X2 210e (22%) 1,105 $28.49*
+AMD Athlon II X2 220 (22%) 1,100 $59.95
+AMD Athlon II X2 240e (22%) 1,099 $37.89*
+AMD A6-3650 APU (22%) 1,095 $128.00*
+AMD FX-8100 Eight-Core (22%) 1,094 $138.02
+AMD R-272F APU (22%) 1,087 NA
+AMD Sempron 150 (22%) 1,079 $14.95*
+AMD Phenom II X4 910e (22%) 1,076 $69.90*
+AMD Sempron X2 198 Dual-Core (21%) 1,070 NA
+AMD Phenom II X3 710 (21%) 1,069 $169.00*
+AMD Phenom II X4 B15e (21%) 1,069 NA
+AMD Phenom II X4 920 (21%) 1,068 $27.89*
+AMD A4-3400 APU (21%) 1,066 $20.00
+AMD Athlon II X2 4450e (21%) 1,066 NA
+AMD A8-3800 APU (21%) 1,064 $109.95*
+AMD Athlon II X3 420e (21%) 1,058 $116.15*
+AMD Phenom II X3 B73 (21%) 1,056 $75.00*
+AMD Athlon II X4 620 (21%) 1,051 $54.95
+AMD A8-6500T APU (21%) 1,048 $59.95*
+AMD Sempron 140 (21%) 1,044 $11.95*
+AMD Phenom 9950 Quad-Core (21%) 1,041 $97.04*
+AMD Phenom II X4 B25 (21%) 1,040 NA
+AMD Athlon II X2 215 (21%) 1,037 $28.97*
+AMD Athlon II X4 615e (21%) 1,037 $59.00*
+AMD Phenom II X4 905e (21%) 1,029 $53.99*
+AMD Athlon II X2 240 (21%) 1,029 $24.95
+AMD Athlon II X4 605e (21%) 1,028 $21.95
+AMD Athlon II X3 415e (21%) 1,028 $75.00*
+AMD Athlon 7750 Dual-Core (21%) 1,027 $79.99
+AMD Athlon 64 X2 Dual Core 6000+ (20%) 1,024 $38.50*
+AMD A4-3300 APU (20%) 1,022 $56.61
+AMD Athlon 64 X2 Dual Core 5600+ (20%) 1,020 $107.21*
+AMD Phenom II X4 810 (20%) 1,018 $213.00*
+AMD Athlon 64 X2 Dual Core 5800+ (20%) 1,008 $29.95*
+AMD Sempron 145 (20%) 1,006 $39.99
+AMD Athlon II X4 610e (20%) 1,003 $39.99*
+AMD Athlon Dual Core 5600B (20%) 1,003 NA
+AMD Athlon 64 FX-62 Dual Core (20%) 1,000 NA
+AMD Phenom II X4 805 (20%) 999 $173.99*
+AMD Athlon 64 X2 Dual Core 5400+ (20%) 995 $52.99*
+AMD A6-3620 APU (20%) 987 $22.49*
+AMD Phenom 8850 Triple-Core (20%) 982 NA
+AMD Phenom 8750 Triple-Core (19%) 974 NA
+AMD Athlon II X3 405e (19%) 973 $112.90*
+AMD Phenom II X4 910 (19%) 973 $100.00*
+AMD Phenom 8850B Triple-Core (19%) 972 NA
+AMD E2-3200 APU (19%) 971 $7.99*
+AMD A6-3500 APU (19%) 970 $74.93
+AMD Phenom II X3 700e (19%) 969 NA
+AMD Athlon Dual Core 5400B (19%) 969 NA
+AMD Phenom II X3 705e (19%) 962 $152.34*
+AMD Phenom 8600B Triple-Core (19%) 957 $14.95*
+AMD Phenom X4 Quad-Core GP-9730 (19%) 957 NA
+AMD Athlon Dual Core 5200B (19%) 953 NA
+AMD Phenom 9750 Quad-Core (19%) 942 $44.04*
+AMD Athlon Dual Core 5000B (19%) 935 $95.00*
+AMD Phenom 9600B Quad-Core (19%) 929 $39.95*
+AMD Phenom 9850 Quad-Core (18%) 925 $129.99*
+AMD Phenom 9650 Quad-Core (18%) 924 $39.99*
+AMD Athlon 7550 Dual-Core (18%) 919 $14.95*
+AMD Phenom II X4 900e (18%) 917 NA
+AMD Athlon 64 X2 Dual Core 5200+ (18%) 915 $60.00*
+AMD Athlon Dual Core 5050e (18%) 914 $60.00*
+AMD Athlon II X4 600e (18%) 913 $49.99
+AMD Phenom 9750B Quad-Core (18%) 913 NA
+AMD Athlon 64 FX-60 Dual Core (18%) 912 NA
+AMD Athlon II X3 400e (18%) 908 $25.49*
+AMD E2-9030 (18%) 906 NA
+AMD Phenom 8750B Triple-Core (18%) 901 NA
+AMD Phenom 8600 Triple-Core (18%) 898 $52.99*
+AMD Phenom 9600 Quad-Core (18%) 898 $39.95
+AMD Athlon 5000 Dual-Core (18%) 892 $109.95
+AMD Athlon Dual Core 4850B (18%) 887 NA
+AMD A6-3600 APU (18%) 886 $24.95*
+AMD Athlon 64 X2 Dual Core 4800+ (18%) 885 $149.95*
+AMD Athlon 5200 Dual-Core (18%) 882 $63.00
+AMD Athlon Dual Core 4850e (18%) 879 $39.00*
+AMD Athlon 64 X2 Dual Core 5000+ (17%) 874 $331.49*
+AMD Phenom 9550 Quad-Core (17%) 872 $29.99*
+AMD Phenom 8650 Triple-Core (17%) 854 $19.00*
+AMD Athlon 7450 Dual-Core (17%) 853 NA
+AMD Phenom 9500 Quad-Core (17%) 843 $29.99*
+AMD Phenom 9450e Quad-Core (17%) 841 $105.00*
+AMD Phenom 8400 Triple-Core (17%) 840 NA
+AMD Athlon 64 X2 Dual Core 4600+ (17%) 839 $349.95*
+AMD Phenom 8450 Triple-Core (16%) 826 $16.99*
+AMD Athlon Dual Core 4450e (16%) 812 $14.48*
+AMD Phenom 9350e Quad-Core (16%) 792 $3,382.07*
+AMD Athlon II X2 270u (16%) 791 $67.67*
+AMD Athlon 64 X2 Dual Core 4400+ (16%) 783 $298.95*
+AMD Athlon 64 X2 Dual Core 4200+ (16%) 781 $109.95*
+AMD Phenom 8450e Triple-Core (16%) 781 NA
+AMD Athlon Dual Core 4450B (15%) 780 $31.00*
+AMD Phenom X3 8550 (15%) 773 $169.95*
+AMD Phenom X4 Quad-Core GP-9600 (15%) 764 NA
+AMD Athlon 5370 APU (15%) 755 $598.68*
+AMD Athlon64 X2 Dual Core 4600+ (15%) 755 NA
+AMD Phenom 8250 Triple-Core (15%) 752 NA
+AMD Athlon 64 X2 3800+ (15%) 745 NA Athlon Dual Core 4050e (15%) 744 NA
+AMD Phenom 9100e Quad-Core (15%) 734 $34.95*
+AMD Athlon Dual Core 4050e (15%) 732 NA
+AMD Phenom 8250e Triple-Core (14%) 729 $46.99*
+AMD Athlon II 170u (14%) 728 $24.00*
+AMD Athlon 64 X2 Dual Core 4000+ (14%) 724 NA
+AMD Athlon 64 X2 Dual Core 3800+ (14%) 723 NA
+AMD Athlon II 160u (14%) 717 $29.99*
+AMD Phenom X4 Quad-Core GP-9500 (14%) 711 NA
+AMD Athlon X2 Dual Core BE-2350 (14%) 705 NA
+AMD Phenom 9150e Quad-Core (14%) 705 $247.50*
+AMD Athlon II X2 260u (14%) 703 $83.44*
+AMD Athlon 5350 APU (14%) 702 $109.00
+AMD Athlon X2 Dual Core BE-2400 (14%) 693 NA
+AMD Athlon X4 530 (14%) 690 NA
+AMD Athlon 64 X2 Dual Core 3600+ (14%) 686 $68.25*
+AMD Athlon 64 X2 Dual Core BE-2350 (13%) 674 NA
+AMD Athlon X2 Dual Core BE-2300 (13%) 644 $60.00*
+AMD Athlon II X2 250u (12%) 632 $24.95*
+AMD Athlon 64 X2 Dual Core BE-2300 (12%) 624 NA
+AMD Athlon 64 FX-74 (12%) 617 $499.50*
+AMD Athlon 64 3100+ (12%) 600 NA
+AMD Athlon 64 FX-59 (11%) 575 NA
+AMD Athlon 64 FX-57 (11%) 552 NA
+AMD Sempron LE-1200 (11%) 551 $14.95*
+AMD Athlon 5150 APU (11%) 551 $98.86*
+AMD E2-1800 APU (10%) 530 NA
+AMD Sempron LE-1100 (10%) 509 $34.95*
+AMD Sempron LE-1250 (10%) 508 $99.99*
+AMD Athlon 64 3000+ (10%) 506 $20.00*
+AMD Athlon 64 FX-55 (10%) 505 $65.00*
+AMD Athlon 64 X2 Dual Core 3400+ (10%) 505 NA
+AMD E-350 (10%) 495 NA
+AMD Athlon LE-1640 (10%) 489 $89.95*
+AMD E-350 APU (9%) 482 NA
+AMD Sempron LE-1150 (9%) 477 $14.94*
+AMD Athlon LE-1620 (9%) 475 $18.00*
+AMD Sempron 2650 APU (9%) 475 $69.99
+AMD Athlon 1640B (9%) 462 $50.00*
+AMD Sempron 3850 APU (9%) 461 $47.58
+AMD Athlon 64 3700+ (8%) 435 $89.95*
+AMD Athlon LE-1600 (8%) 430 $21.00*
+AMD Athlon LE-1660 (8%) 428 NA
+AMD Sempron 3800+ (8%) 422 $14.99*
+AMD Phenom X4 Quad-Core GP-9530 (8%) 417 NA
+AMD Sempron 2800+ (8%) 408 $29.95*
+AMD Sempron 2500+ (8%) 405 $59.95*
+AMD Athlon XP 3000+ (8%) 396 $79.70*
+AMD Sempron 3300+ (8%) 394 $20.00*
+AMD Sempron LE-1300 (7%) 389 $27.00
+AMD Sempron 3100+ (7%) 383 $65.00*
+AMD Sempron 3600+ (7%) 377 $15.00*
+AMD Sempron 3200+ (7%) 356 $124.68*
+AMD Sempron 3400+ (7%) 346 $86.68*
+AMD Athlon 2850e (6%) 337 NA
+AMD Sempron 3000+ (6%) 333 $34.95*
+AMD Sempron 2600+ (6%) 325 $34.95*
+AMD Sempron 2400+ (6%) 321 $12.99*
+AMD Sempron 2300+ (6%) 314 $45.00*
+AMD Athlon XP 2000+ (6%) 311 $58.99*
+AMD Athlon 2650e (6%) 304 $19.00*
+AMD Athlon XP 1800+ (6%) 301 $50.95*
+AMD Sempron 2200+ (5%) 279 $39.95*
+AMD Athlon XP 1700+ (5%) 272 $51.25*
+AMD Sempron 3500+ (5%) 264 $24.99*
+Intel Core i9-12900KF (86%) 4,242 $570.00
+Intel Core i9-12900K (86%) 4,201 $649.95
+Intel Core i9-12900F (84%) 4,132 $794.00
+Intel Core i7-12700KF (82%) 4,047 $389.99
+Intel Core i5-12600KF (82%) 4,021 $261.00
+Intel Core i7-12700K (82%) 4,006 $409.00*
+Intel Core i7-12700F (82%) 4,003 $329.78
+Intel Core i5-12600K (81%) 3,973 $295.97
+Intel Core i7-12700 (80%) 3,936 $339.00*
+Intel Core i5-12600 (76%) 3,726 $469.12*
+Intel Core i5-12500 (75%) 3,692 $202.00*
+Intel Core i9-11900KF @ 3.50GHz (73%) 3,599 $499.99
+Intel Xeon W-1370 @ 2.90GHz (73%) 3,568 $359.99
+Intel Xeon W-1390P @ 3.50GHz (73%) 3,567 NA
+Intel Core i5-12400 (73%) 3,567 $192.00*
+Intel Core i3-12100 (72%) 3,543 $122.00*
+Intel Core i9-11900F @ 2.50GHz (72%) 3,537 $409.99
+Intel Core i9-11900K @ 3.50GHz (72%) 3,513 $519.99
+Intel Core i5-12400F (71%) 3,503 $199.99
+Intel Xeon W-1370P @ 3.60GHz (71%) 3,494 $459.99
+Intel Core i7-11700K @ 3.60GHz (70%) 3,441 $349.99
+Intel Core i9-11900 @ 2.50GHz (70%) 3,436 $439.99
+Intel Core i7-11700KF @ 3.60GHz (70%) 3,415 $298.00
+Intel Core i9-11900KB @ 3.30GHz (69%) 3,413 $539.00*
+Intel Core i9-11900T @ 1.50GHz (69%) 3,401 $439.00*
+Intel Core i5-11600KF @ 3.90GHz (69%) 3,385 $248.97
+Intel Core i5-11600K @ 3.90GHz (69%) 3,381 $249.99
+Intel Core i7-11700B @ 3.20GHz (68%) 3,362 NA
+Intel Core i7-11700F @ 2.50GHz (68%) 3,351 $306.32
+Intel Core i5-11600 @ 2.80GHz (67%) 3,306 $266.70
+Intel Core i5-11500B @ 3.30GHz (66%) 3,224 NA
+Intel Core i5-11500 @ 2.70GHz (65%) 3,177 $250.99
+Intel Core i9-10900K @ 3.70GHz (64%) 3,168 $443.89
+Intel Core i9-10900KF @ 3.70GHz (64%) 3,139 $434.36
+Intel Core i7-11700 @ 2.50GHz (64%) 3,131 $329.97
+Intel Core i9-10910 @ 3.60GHz (63%) 3,115 NA
+Intel Core i9-10850K @ 3.60GHz (63%) 3,095 $493.25
+Intel Core i9-10900F @ 2.80GHz (63%) 3,077 $418.14
+Intel Core i7-10700K @ 3.80GHz (63%) 3,076 $339.99
+Intel Core i9-10900 @ 2.80GHz (62%) 3,066 $429.22
+Intel Core i7-10700KF @ 3.80GHz (62%) 3,054 $339.62
+Intel Core i5-11400 @ 2.60GHz (62%) 3,047 $182.20
+Intel Core i9-9900KS @ 4.00GHz (62%) 3,045 $1,959.00
+Intel Core i5-11400F @ 2.60GHz (62%) 3,034 $171.85
+Intel Xeon W-1250P @ 4.10GHz (61%) 2,985 $374.40*
+Intel Core i9-9900KF @ 3.60GHz (60%) 2,971 $519.98
+Intel Core i9-9990XE @ 4.00GHz (60%) 2,970 $2,163.00*
+Intel Core i9-10900E @ 2.80GHz (60%) 2,969 $444.00*
+Intel Core i9-9900K @ 3.60GHz (60%) 2,965 $570.00
+Intel Core i5-10600KF @ 4.10GHz (60%) 2,949 $199.99
+Intel Core i5-10600K @ 4.10GHz (60%) 2,937 $332.00
+Intel Core i7-9700KF @ 3.60GHz (60%) 2,931 $348.83
+Intel Core i7-10700 @ 2.90GHz (60%) 2,928 $369.13
+Intel Core i7-10700F @ 2.90GHz (59%) 2,925 $254.99
+Intel Core i3-11100B @ 3.60GHz (59%) 2,912 NA
+Intel Core i5-10600 @ 3.30GHz (59%) 2,909 $259.99
+Intel Core i7-9700K @ 3.60GHz (59%) 2,904 $364.79
+Intel Core i7-8086K @ 4.00GHz (59%) 2,901 $524.99*
+Intel Core i5-11600T @ 1.70GHz (59%) 2,884 $213.00*
+Intel Core i5-10505 @ 3.20GHz (59%) 2,882 NA
+Intel Core i9-9900 @ 3.10GHz (59%) 2,880 $509.99
+Intel Core i3-10325 @ 3.90GHz (58%) 2,871 $154.00*
+Intel Core i3-10320 @ 3.80GHz (58%) 2,849 $142.00
+Intel Core i3-9350K @ 4.00GHz (58%) 2,847 $293.22*
+Intel Core i3-10305 @ 3.80GHz (58%) 2,834 $218.00
+Intel Xeon W-2275 @ 3.30GHz (57%) 2,805 $1,112.00*
+Intel Core i7-7740X @ 4.30GHz (57%) 2,803 $139.95
+Intel Core i7-9700F @ 3.00GHz (57%) 2,801 $311.77
+Intel Core i7-11700T @ 1.40GHz (57%) 2,796 $323.00*
+Intel Core i5-9600KF @ 3.70GHz (57%) 2,791 $159.00
+Intel Core i7-9700 @ 3.00GHz (57%) 2,787 $325.98
+Intel Core i5-10500 @ 3.10GHz (56%) 2,777 $225.70
+Intel Core i5-9600K @ 3.70GHz (56%) 2,775 $197.99
+Intel Core i7-8700K @ 3.70GHz (56%) 2,771 $349.03
+Intel Core i9-10920X @ 3.50GHz (56%) 2,766 $699.99
+Intel Core i3-9350KF @ 4.00GHz (56%) 2,745 $179.98
+Intel Core i7-7700K @ 4.20GHz (56%) 2,740 $440.00
+Intel Core i5-9600 @ 3.10GHz (56%) 2,739 $381.87
+Intel Core i9-10940X @ 3.30GHz (55%) 2,723 $836.99
+Intel Core i3-10105 @ 3.70GHz (55%) 2,722 $119.93
+Intel Xeon W-2255 @ 3.70GHz (55%) 2,719 $778.00*
+Intel Core i3-9320 @ 3.70GHz (55%) 2,711 $218.00
+Intel Core i9-10900X @ 3.70GHz (55%) 2,704 $550.00
+Intel Core i7-10700T @ 2.00GHz (55%) 2,702 $362.35
+Intel Core i3-10105F @ 3.70GHz (55%) 2,687 $88.95
+Intel Core i3-10300 @ 3.70GHz (54%) 2,682 $161.00
+Intel Core i5-9500F @ 3.00GHz (54%) 2,678 $184.99
+Intel Pentium Gold G6605 @ 4.30GHz (54%) 2,673 $167.60*
+Intel Core i9-10980XE @ 3.00GHz (54%) 2,671 $999.99
+Intel Core i7-8700 @ 3.20GHz (54%) 2,668 $326.58
+Intel Core i3-9300 @ 3.70GHz (54%) 2,666 $208.00
+Intel Pentium Gold G6505 @ 4.20GHz (54%) 2,652 $75.00*
+Intel Core i9-9960X @ 3.10GHz (54%) 2,648 $1,047.00
+Intel Core i3-10100 @ 3.60GHz (54%) 2,644 $114.93
+Intel Core i9-9940X @ 3.30GHz (54%) 2,644 $1,149.95
+Intel Core i5-10300H @ 2.50GHz (53%) 2,630 $250.00*
+Intel Core i5-11400T @ 1.30GHz (53%) 2,628 $182.00*
+Intel Core i9-10900T @ 1.90GHz (53%) 2,627 $439.00*
+Intel Core i9-9920X @ 3.50GHz (53%) 2,625 $1,419.95
+Intel Xeon W-3323 @ 3.50GHz (53%) 2,617 $949.00*
+Intel Core i5-8600K @ 3.60GHz (53%) 2,613 $295.00
+Intel Core i3-10100F @ 3.60GHz (53%) 2,611 $89.82
+Intel Core i5-9500 @ 3.00GHz (53%) 2,611 $200.98
+Intel Core i7-7900X @ 3.30GHz (53%) 2,610 NA
+Intel Core i5-11500T @ 1.50GHz (53%) 2,608 $192.00*
+Intel Core i7-9800X @ 3.80GHz (53%) 2,607 $599.99*
+Intel Core i9-9900X @ 3.50GHz (53%) 2,605 $696.99
+Intel Xeon W-3265M @ 2.70GHz (53%) 2,600 $6,353.00*
+Intel Core i9-7900X @ 3.30GHz (53%) 2,597 $869.99
+Intel Core i7-9700E @ 2.60GHz (53%) 2,591 $323.00*
+Intel Core i5-10400 @ 2.90GHz (53%) 2,589 $154.98
+Intel Core i5-8600 @ 3.10GHz (52%) 2,578 $279.66
+Intel Pentium Gold G6600 @ 4.20GHz (52%) 2,577 $136.00
+Intel Core i5-10400F @ 2.90GHz (52%) 2,573 $147.99
+Intel Core i9-9980XE @ 3.00GHz (52%) 2,566 $1,647.20
+Intel Core i5-7600K @ 3.80GHz (52%) 2,561 $203.99
+Intel Core i7-7820X @ 3.60GHz (52%) 2,537 $709.00
+Intel Core i9-7960X @ 2.80GHz (51%) 2,525 $997.90
+Intel Core i3-9100 @ 3.60GHz (51%) 2,523 $120.00
+Intel Core i3-9100F @ 3.60GHz (51%) 2,520 $137.00
+Intel Core i7-6700K @ 4.00GHz (51%) 2,519 $263.00
+Intel Pentium Gold G6405 @ 4.10GHz (51%) 2,510 $93.26
+Intel Core i9-9900T @ 2.10GHz (51%) 2,500 $439.00*
+Intel Core i5-7640X @ 4.00GHz (51%) 2,496 $200.00
+Intel Core i5-8500 @ 3.00GHz (51%) 2,491 $190.00
+Intel Pentium Gold G6500 @ 4.10GHz (51%) 2,491 $188.56
+Intel Pentium Gold G6400 @ 4.00GHz (51%) 2,490 $126.81
+Intel Core i5-9400 @ 2.90GHz (50%) 2,487 $179.99
+Intel Core i9-7940X @ 3.10GHz (50%) 2,487 $800.00
+Intel Core i3-8350K @ 4.00GHz (50%) 2,486 $240.70
+Intel Core i3-7350K @ 4.20GHz (50%) 2,484 $283.88
+Intel Core i5-9400F @ 2.90GHz (50%) 2,477 $161.90
+Intel Core i5-7600 @ 3.50GHz (50%) 2,474 $195.46
+Intel Core i7-7700 @ 3.60GHz (50%) 2,474 $374.00
+Intel Core i9-7920X @ 2.90GHz (50%) 2,472 $375.00
+Intel Core i7-4790K @ 4.00GHz (50%) 2,469 $208.99
+Intel Core i3-7320 @ 4.10GHz (50%) 2,466 $178.00
+Intel Core i9-7980XE @ 2.60GHz (50%) 2,464 $1,499.00
+Intel Core i3-10305T @ 3.00GHz (50%) 2,456 $143.00*
+Intel Core i7-9700T @ 2.00GHz (50%) 2,450 $323.00*
+Intel Pentium Gold G5600F @ 3.90GHz (50%) 2,442 $119.99
+Intel Core i7-7800X @ 3.50GHz (49%) 2,431 $432.91
+Intel Pentium Gold G5620 @ 4.00GHz (49%) 2,424 $159.99*
+Intel Core i3-7300 @ 4.00GHz (49%) 2,423 $187.14
+Intel Core i7-6850K @ 3.60GHz (49%) 2,414 $334.50
+Intel Core i5-8400 @ 2.80GHz (49%) 2,407 $230.00
+Intel Core i9-9820X @ 3.30GHz (49%) 2,406 $703.97
+Intel Core i5-10600T @ 2.40GHz (48%) 2,386 $213.00*
+Intel Core i5-10500T @ 2.30GHz (48%) 2,362 $192.00*
+Intel Core i7-8700T @ 2.40GHz (48%) 2,356 $344.01
+Intel Core i7-6900K @ 3.20GHz (48%) 2,352 $395.60
+Intel Core i3-10105T @ 3.00GHz (48%) 2,352 $122.00*
+Intel Core i5-5675R @ 3.10GHz (48%) 2,347 NA
+Intel Core i3-6320 @ 3.90GHz (48%) 2,343 $148.00
+Intel Core i7-6950X @ 3.00GHz (47%) 2,339 $1,800.00
+Intel Core i3-7100 @ 3.90GHz (47%) 2,335 $133.53
+Intel Core i5-6600K @ 3.50GHz (47%) 2,330 $206.59
+Intel Core i3-9300T @ 3.20GHz (47%) 2,326 $143.00*
+Intel Core i7-5775C @ 3.30GHz (47%) 2,319 $320.00
+Intel Core i3-10300T @ 3.00GHz (47%) 2,316 $173.15
+Intel Core i7-9700TE @ 1.80GHz (47%) 2,309 $323.00*
+Intel Core i7-6700 @ 3.40GHz (47%) 2,303 $255.00
+Intel Core i3-10100E @ 3.20GHz (47%) 2,297 $125.00*
+Intel Core i3-6300 @ 3.80GHz (46%) 2,293 $168.00
+Intel Pentium Gold G5600 @ 3.90GHz (46%) 2,291 $170.76*
+Intel Pentium Gold G5420 @ 3.80GHz (46%) 2,290 $200.85
+Intel Core i5-6600 @ 3.30GHz (46%) 2,287 $134.99
+Intel Core i5-7500 @ 3.40GHz (46%) 2,286 $166.99
+Intel Pentium G4620 @ 3.70GHz (46%) 2,280 $187.00
+Intel Pentium Gold G6500T @ 3.50GHz (46%) 2,277 $75.00*
+Intel Celeron G5925 @ 3.60GHz (46%) 2,271 $76.15
+Intel Core i5-7600T @ 2.80GHz (46%) 2,267 $199.74*
+Intel Core i3-8300 @ 3.70GHz (46%) 2,265 $275.95
+Intel Core i7-6800K @ 3.40GHz (46%) 2,263 $215.19
+Intel Pentium Gold G5500 @ 3.80GHz (46%) 2,256 $328.18
+Intel Core i5-5675C @ 3.10GHz (46%) 2,251 $257.00
+Intel Core i7-5675C @ 3.10GHz (46%) 2,249 NA
+Intel Core i3-8100 @ 3.60GHz (45%) 2,242 $160.50
+Intel Pentium G4520 @ 3.60GHz (45%) 2,241 $146.00
+Intel Core i7-4790 @ 3.60GHz (45%) 2,231 $220.45
+Intel Pentium Gold G5400 @ 3.70GHz (45%) 2,228 $139.99
+Intel Core i7-5775R @ 3.30GHz (45%) 2,222 NA
+Intel Core i3-6100 @ 3.70GHz (45%) 2,220 $145.94
+Intel Pentium Gold G6405T @ 3.50GHz (45%) 2,206 $64.00*
+Intel Core i7-4790S @ 3.20GHz (45%) 2,205 $198.00
+Intel Celeron G5905 @ 3.50GHz (45%) 2,205 $71.13
+Intel Core i5-4690 @ 3.50GHz (45%) 2,204 $206.47
+Intel Core i7-7700T @ 2.90GHz (45%) 2,202 $580.96
+Intel Core i5-9500T @ 2.20GHz (45%) 2,198 $192.00*
+Intel Core i5-4690K @ 3.50GHz (44%) 2,191 $98.11
+Intel Core i5-4690S @ 3.20GHz (44%) 2,189 $203.80
+Intel Pentium G4600 @ 3.60GHz (44%) 2,189 $177.87
+Intel Core i7-4771 @ 3.50GHz (44%) 2,181 $247.00
+Intel Core i3-9100T @ 3.10GHz (44%) 2,180 $122.00*
+Intel Core i5-8600T @ 2.30GHz (44%) 2,175 $199.99*
+Intel Core i5-9600T @ 2.30GHz (44%) 2,175 $213.00*
+Intel Core i7-4770 @ 3.40GHz (44%) 2,168 $137.00
+Intel Core i5-10400T @ 2.00GHz (44%) 2,167 $182.00*
+Intel Core i5-4670R @ 3.00GHz (44%) 2,164 $276.00*
+Intel Core i7-4770K @ 3.50GHz (44%) 2,164 $285.00*
+Intel Core i7-4770R @ 3.20GHz (44%) 2,161 NA
+Intel Celeron G5900 @ 3.40GHz (44%) 2,156 $61.47
+Intel Core i5-4670K @ 3.40GHz (44%) 2,154 $229.51
+Intel Celeron G5920 @ 3.50GHz (44%) 2,151 $67.49
+Intel Xeon W-3175X @ 3.10GHz (44%) 2,148 $3,107.99
+Intel Core i3-6098P @ 3.60GHz (44%) 2,148 $325.00*
+Intel Core i7-4770S @ 3.10GHz (43%) 2,140 $900.00
+Intel Pentium Gold G6400T @ 3.40GHz (43%) 2,140 $64.00*
+Intel Core i7-9850HL @ 1.90GHz (43%) 2,139 $395.00*
+Intel Core i5-4670 @ 3.40GHz (43%) 2,139 $98.87*
+Intel Core i3-7300T @ 3.50GHz (43%) 2,128 $181.59*
+Intel Core i5-6500 @ 3.20GHz (43%) 2,126 $169.91
+Intel Pentium G4500 @ 3.50GHz (43%) 2,123 $139.99*
+Intel Core i5-5575R @ 2.80GHz (43%) 2,116 NA
+Intel Pentium G4560 @ 3.50GHz (43%) 2,110 $119.99
+Intel Core i5-7400 @ 3.00GHz (43%) 2,108 $184.55
+Intel Core i3-4370 @ 3.80GHz (43%) 2,106 $299.00*
+Intel Core i7-4790T @ 2.70GHz (43%) 2,100 $199.88*
+Intel Core i7-6700T @ 2.80GHz (43%) 2,098 $305.00
+Intel Core i5-6600T @ 2.70GHz (42%) 2,096 $121.98*
+Intel Core i5-4590 @ 3.30GHz (42%) 2,094 $82.16
+Intel Pentium G3470 @ 3.60GHz (42%) 2,089 $63.00
+Intel Core i5-4670S @ 3.10GHz (42%) 2,086 $213.00*
+Intel Core i7-3770K @ 3.50GHz (42%) 2,082 $136.58
+Intel Core i7-4960X @ 3.60GHz (42%) 2,078 $1,850.00
+Intel Core i7-3770 @ 3.40GHz (42%) 2,074 $159.35
+Intel Core i3-4170 @ 3.70GHz (42%) 2,063 $87.10
+Intel Core i7-5930K @ 3.50GHz (42%) 2,061 $690.30*
+Intel Core i5-6402P @ 2.80GHz (42%) 2,058 $189.99*
+Intel Core i3-4360 @ 3.70GHz (42%) 2,057 $269.95
+Intel Core i5-4590S @ 3.00GHz (42%) 2,056 $260.00
+Intel Core i3-6300T @ 3.30GHz (42%) 2,055 $138.00
+Intel Core i5-9400T @ 1.80GHz (42%) 2,054 $182.00*
+Intel Core i3-4340 @ 3.60GHz (42%) 2,052 $149.99*
+Intel Core i5-3570K @ 3.40GHz (41%) 2,049 $94.12
+Intel Core i5-3570 @ 3.40GHz (41%) 2,048 $155.40
+Intel Core i7-4770T @ 2.50GHz (41%) 2,046 $771.00
+Intel Core i5-4670K CPT @ 3.40GHz (41%) 2,042 NA
+Intel Celeron G5900T @ 3.20GHz (41%) 2,041 $42.00*
+Intel Celeron G4950 @ 3.30GHz (41%) 2,041 $9,999.00*
+Intel Core i7-6700TE @ 2.40GHz (41%) 2,036 NA
+Intel Core i7-3770S @ 3.10GHz (41%) 2,035 $114.00
+Intel Core i5-8500T @ 2.10GHz (41%) 2,033 $247.53*
+Intel Core i5-4570 @ 3.20GHz (41%) 2,032 $93.99
+Intel Pentium G4400 @ 3.30GHz (41%) 2,030 $130.01
+Intel Core i7-5820K @ 3.30GHz (41%) 2,012 $396.00
+Intel Core i3-4160 @ 3.60GHz (41%) 2,008 $59.99
+Intel Core i3-8300T @ 3.20GHz (41%) 2,005 $158.95*
+Intel Core i5-3550 @ 3.30GHz (41%) 2,005 $335.31
+Intel Celeron G4930 @ 3.20GHz (40%) 1,999 $100.99
+Intel Core i3-7100T @ 3.40GHz (40%) 1,999 $119.99*
+Intel Core i3-7101TE @ 3.40GHz (40%) 1,997 $117.00*
+Intel Celeron G5905T @ 3.30GHz (40%) 1,996 $42.00*
+Intel Core i5-3570S @ 3.10GHz (40%) 1,992 $105.00
+Intel Core i5-3550S @ 3.00GHz (40%) 1,982 $319.95*
+Intel Core i3-4330 @ 3.50GHz (40%) 1,982 $150.23
+Intel Core i5-4570S @ 2.90GHz (40%) 1,981 $240.05*
+Intel Pentium Gold G5420T @ 3.20GHz (40%) 1,978 $64.00*
+Intel Core i7-5960X @ 3.00GHz (40%) 1,976 $217.00
+Intel Core i5-7500T @ 2.70GHz (40%) 1,970 $275.69
+Intel Core i7-4930K @ 3.40GHz (40%) 1,967 $199.30
+Intel Core i5-6400 @ 2.70GHz (40%) 1,967 $129.99
+Intel Celeron G4920 @ 3.20GHz (40%) 1,965 $240.00
+Intel Pentium Gold G5500T @ 3.20GHz (40%) 1,964 $75.00*
+Intel Pentium G3460 @ 3.50GHz (40%) 1,954 $65.96
+Intel Core i7-4820K @ 3.70GHz (39%) 1,943 $104.88
+Intel Core i5-3470 @ 3.20GHz (39%) 1,939 $75.00
+Intel Core i7-3770T @ 2.50GHz (39%) 1,929 $182.28*
+Intel Core i3-4150 @ 3.50GHz (39%) 1,929 $55.99
+Intel Core i3-8100T @ 3.10GHz (39%) 1,929 $140.61*
+Intel Core i5-8400T @ 1.70GHz (39%) 1,923 $239.84*
+Intel Core i5-4690T @ 2.50GHz (39%) 1,921 NA
+Intel Core i5-4570T @ 2.90GHz (39%) 1,919 $464.64
+Intel Pentium G3430 @ 3.30GHz (39%) 1,915 $63.79*
+Intel Core i3-4370T @ 3.30GHz (39%) 1,912 $138.00*
+Intel Celeron G4900 @ 3.10GHz (39%) 1,912 $109.71
+Intel Core i5-4460 @ 3.20GHz (39%) 1,904 $84.41
+Intel Core i5-4570R @ 2.70GHz (38%) 1,901 NA
+Intel Core i5-3470S @ 2.90GHz (38%) 1,896 $199.00
+Intel Pentium G3440 @ 3.30GHz (38%) 1,895 $65.99*
+Intel Core i3-6100T @ 3.20GHz (38%) 1,886 $215.66*
+Intel Core i5-3450 @ 3.10GHz (38%) 1,885 $245.33
+Intel Core i3-4130 @ 3.40GHz (38%) 1,883 $59.99
+Intel Core i5-4440 @ 3.10GHz (38%) 1,863 $79.00
+Intel Pentium G3260 @ 3.30GHz (38%) 1,861 $68.00
+Intel Core i3-4350 @ 3.60GHz (38%) 1,859 $49.99*
+Intel Core i3-4360T @ 3.20GHz (37%) 1,852 NA
+Intel Core i5-3450S @ 2.80GHz (37%) 1,851 $95.00
+Intel Core i5-4460S @ 2.90GHz (37%) 1,845 $659.99*
+Intel Pentium G4500T @ 3.00GHz (37%) 1,845 NA
+Intel Pentium G4600T @ 3.00GHz (37%) 1,843 $118.00
+Intel Core i7-4700EQ @ 2.40GHz (37%) 1,842 NA
+Intel Pentium G3258 @ 3.20GHz (37%) 1,842 $32.66
+Intel Pentium G2140 @ 3.30GHz (37%) 1,837 $45.00
+Intel Core i7-3970X @ 3.50GHz (37%) 1,833 $187.00
+Intel Core i5-6500T @ 2.50GHz (37%) 1,832 $221.52*
+Intel Core i3-3245 @ 3.40GHz (37%) 1,819 $149.00
+Intel Core i5-6500TE @ 2.30GHz (37%) 1,818 $230.61*
+Intel Pentium G3250 @ 3.20GHz (37%) 1,816 $68.00
+Intel Core i7-3960X @ 3.30GHz (37%) 1,815 $1,842.00
+Intel Celeron G3950 @ 3.00GHz (37%) 1,811 $143.00*
+Intel Core i3-4170T @ 3.20GHz (37%) 1,811 $199.95*
+Intel Pentium G3420 @ 3.20GHz (37%) 1,807 $240.39
+Intel Core i5-4430 @ 3.00GHz (37%) 1,806 $79.99
+Intel Core i3-3240 @ 3.40GHz (36%) 1,804 $44.02
+Intel Core i5-4400E @ 2.70GHz (36%) 1,804 $266.00*
+Intel Pentium G4400T @ 2.90GHz (36%) 1,803 NA
+Intel Core i5-3475S @ 2.90GHz (36%) 1,801 $143.50*
+Intel Core i3-3250 @ 3.50GHz (36%) 1,797 $84.00
+Intel Core i5-4200H @ 2.80GHz (36%) 1,797 NA
+Intel Celeron G3930 @ 2.90GHz (36%) 1,796 $178.02
+Intel Core i7-2700K @ 3.50GHz (36%) 1,792 $189.00
+Intel Celeron G4900T @ 2.90GHz (36%) 1,789 $42.00*
+Intel Core i5-3340S @ 2.80GHz (36%) 1,788 $319.19
+Intel Core i5-3340 @ 3.10GHz (36%) 1,787 $295.95*
+Intel Core i5-3470T @ 2.90GHz (36%) 1,786 $269.95*
+Intel Core i5-4440S @ 2.80GHz (36%) 1,784 $462.97*
+Intel Core i5-3570T @ 2.30GHz (36%) 1,779 NA
+Intel Core i5-3350P @ 3.10GHz (36%) 1,777 $165.00
+Intel Core i3-4160T @ 3.10GHz (36%) 1,767 $59.99*
+Intel Pentium G3240 @ 3.10GHz (36%) 1,766 $117.99
+Intel Pentium G3450 @ 3.40GHz (36%) 1,766 $58.00
+Intel Core i7-3930K @ 3.20GHz (36%) 1,762 $460.00*
+Intel Core i5-7400T @ 2.40GHz (36%) 1,756 $220.00
+Intel Core i5-4470S @ 3.00GHz (35%) 1,756 NA
+Intel Core i5-2550K @ 3.40GHz (35%) 1,749 $59.99
+Intel Pentium G2130 @ 3.20GHz (35%) 1,744 $43.64
+Intel Core i7-2600 @ 3.40GHz (35%) 1,743 $134.85
+Intel Core i7-2600K @ 3.40GHz (35%) 1,742 $141.81
+Intel Celeron G4930T @ 3.00GHz (35%) 1,742 $42.00*
+Intel Celeron G3920 @ 2.90GHz (35%) 1,740 $9,999.00*
+Intel Core i7-3820 @ 3.60GHz (35%) 1,739 $118.00
+Intel Core i7-4785T @ 2.20GHz (35%) 1,738 NA
+Intel Core i5-3335S @ 2.70GHz (35%) 1,738 NA
+Intel Core i5-4670T @ 2.30GHz (35%) 1,736 $259.02*
+Intel Celeron G3900 @ 2.80GHz (35%) 1,729 $155.00
+Intel Core i5-3330 @ 3.00GHz (35%) 1,722 $70.71
+Intel Core i3-3220 @ 3.30GHz (35%) 1,720 $56.64
+Intel Core i3-4330T @ 3.00GHz (35%) 1,717 NA
+Intel Pentium G2120 @ 3.10GHz (35%) 1,716 $74.99
+Intel Core i5-2500 @ 3.30GHz (35%) 1,708 $80.19
+Intel Celeron G3930TE @ 2.70GHz (34%) 1,706 $42.00*
+Intel Core i5-4430S @ 2.70GHz (34%) 1,703 $91.99*
+Intel Core i5-2500K @ 3.30GHz (34%) 1,700 $59.00
+Intel Pentium G3220 @ 3.00GHz (34%) 1,699 $101.20
+Intel Core i3-3210 @ 3.20GHz (34%) 1,696 $100.00
+Intel Celeron G1850 @ 2.90GHz (34%) 1,695 $99.00
+Intel Core i7-2600S @ 2.80GHz (34%) 1,695 $287.00
+Intel Core i3-4570T @ 2.90GHz (34%) 1,693 NA
+Intel Pentium G4560T @ 2.90GHz (34%) 1,693 $231.90
+Intel Core i5-3330S @ 2.70GHz (34%) 1,685 $149.95*
+Intel Core i3-3250T @ 3.00GHz (34%) 1,684 NA
+Intel Core i7-995X @ 3.60GHz (34%) 1,683 NA
+Intel Core i3-3225 @ 3.30GHz (34%) 1,677 $200.19
+Intel Core i5-2500S @ 2.70GHz (34%) 1,665 $55.34*
+Intel Core i5-4590T @ 2.00GHz (34%) 1,659 $209.95*
+Intel Core i5-2450P @ 3.20GHz (33%) 1,654 $179.00
+Intel Core i5-6400T @ 2.20GHz (33%) 1,654 $159.99*
+Intel Celeron G3930T @ 2.70GHz (33%) 1,650 $96.94
+Intel Core i3-4130T @ 2.90GHz (33%) 1,631 $248.56*
+Intel Core i5-4570TE @ 2.70GHz (33%) 1,615 $342.00
+Intel Pentium G3440T @ 2.80GHz (33%) 1,615 NA
+Intel Celeron G1840 @ 2.80GHz (33%) 1,615 $169.95
+Intel Core i5-2380P @ 3.10GHz (32%) 1,607 $183.43
+Intel Core i3-6100TE @ 2.70GHz (32%) 1,601 NA
+Intel Core i7-990X @ 3.47GHz (32%) 1,600 $1,500.19
+Intel Pentium G2030 @ 3.00GHz (32%) 1,600 $29.00
+Intel Core i7-4765T @ 2.00GHz (32%) 1,595 $498.95
+Intel Core i3-4150T @ 3.00GHz (32%) 1,585 $417.42*
+Intel Core i7-4610Y @ 1.70GHz (32%) 1,583 NA
+Intel Core i5-2400 @ 3.10GHz (32%) 1,580 $123.00
+Intel Core i7-7Y75 @ 1.30GHz (32%) 1,578 NA
+Intel Core i5-680 @ 3.60GHz (32%) 1,577 $60.00
+Intel Pentium G3420T @ 2.70GHz (32%) 1,570 $159.99*
+Intel Pentium G3260T @ 2.90GHz (32%) 1,568 $49.99*
+Intel Pentium G2020 @ 2.90GHz (31%) 1,559 $50.00
+Intel Core i7-980 @ 3.33GHz (31%) 1,558 $1,500.19
+Intel Pentium G3240T @ 2.70GHz (31%) 1,558 NA
+Intel Core i3-2130 @ 3.40GHz (31%) 1,555 $72.15
+Intel Pentium G3250T @ 2.80GHz (31%) 1,553 $49.99*
+Intel Core i3-2125 @ 3.30GHz (31%) 1,550 $152.00
+Intel Celeron G3900T @ 2.60GHz (31%) 1,549 $112.46*
+Intel Celeron G1630 @ 2.80GHz (31%) 1,542 $69.99
+Intel Core i5-670 @ 3.47GHz (31%) 1,531 $291.00
+Intel Celeron N5095 @ 2.00GHz (31%) 1,529 NA
+Intel Core i7-980X @ 3.33GHz (31%) 1,528 $850.00
+Intel Core i3-3240T @ 2.90GHz (31%) 1,525 NA
+Intel Celeron G1820 @ 2.70GHz (31%) 1,519 $57.60
+Intel Core i3-2120 @ 3.30GHz (31%) 1,518 $27.44
+Intel Core i5-2320 @ 3.00GHz (31%) 1,515 $147.36
+Intel Celeron G1830 @ 2.80GHz (31%) 1,513 $76.95*
+Intel Core i7-975 @ 3.33GHz (30%) 1,506 $770.00
+Intel Core i3-3220T @ 2.80GHz (30%) 1,497 $39.99
+Intel Pentium G2120T @ 2.70GHz (30%) 1,493 NA
+Intel Core i5-2500T @ 2.30GHz (30%) 1,489 $89.99*
+Intel Core i5-2310 @ 2.90GHz (30%) 1,488 $85.52*
+Intel Core i5-2405S @ 2.50GHz (30%) 1,485 $208.00*
+Intel Core i5-4460T @ 1.90GHz (30%) 1,473 NA
+Intel Core i5-2400S @ 2.50GHz (30%) 1,472 $145.19
+Intel Pentium G870 @ 3.10GHz (30%) 1,464 $77.00
+Intel Pentium G2010 @ 2.80GHz (29%) 1,461 $24.88*
+Intel Pentium G2100T @ 2.60GHz (29%) 1,460 NA
+Intel Core i7-4770TE @ 2.30GHz (29%) 1,458 NA
+Intel Core i7-960 @ 3.20GHz (29%) 1,458 $270.00
+Intel Core i7-965 @ 3.20GHz (29%) 1,452 $1,100.00
+Intel Core i7-970 @ 3.20GHz (29%) 1,451 $520.00*
+Intel Core2 Extreme X9775 @ 3.20GHz (29%) 1,451 $1,805.95*
+Intel Core i5-655K @ 3.20GHz (29%) 1,446 $85.79*
+Intel Pentium G2030T @ 2.60GHz (29%) 1,443 $130.50*
+Intel Pentium G3220T @ 2.60GHz (29%) 1,442 $69.95*
+Intel Core i5-661 @ 3.33GHz (29%) 1,441 $200.19
+Intel Core i5-660 @ 3.33GHz (29%) 1,438 $219.27
+Intel Core i5-2300 @ 2.80GHz (29%) 1,433 $29.99*
+Intel Celeron G1840T @ 2.50GHz (29%) 1,431 NA
+Intel Core i3-2100 @ 3.10GHz (29%) 1,425 $116.19
+Intel Pentium Silver J5040 @ 2.00GHz (29%) 1,422 NA
+Intel Core i7-860S @ 2.53GHz (28%) 1,413 $160.00
+Intel Celeron G1620 @ 2.70GHz (28%) 1,404 $70.27
+Intel Core i3-2102 @ 3.10GHz (28%) 1,400 $58.00*
+Intel Core2 Duo E8600 @ 3.33GHz (28%) 1,399 $149.95*
+Intel Core i3-4330TE @ 2.40GHz (28%) 1,399 NA
+Intel Core2 Extreme X9770 @ 3.20GHz (28%) 1,398 $1,608.95*
+Intel Core i7-870 @ 2.93GHz (28%) 1,397 $229.95*
+Intel Core i5-24050S @ 2.50GHz (28%) 1,397 NA
+Intel Celeron G1820T @ 2.40GHz (28%) 1,396 $42.00*
+Intel Core i5-2390T @ 2.70GHz (28%) 1,394 $99.90*
+Intel Core i7-950 @ 3.07GHz (28%) 1,393 $279.00*
+Intel Pentium G860 @ 3.00GHz (28%) 1,389 $72.99
+Intel Core i5-650 @ 3.20GHz (28%) 1,386 $74.98
+Intel Core i7-875K @ 2.93GHz (28%) 1,381 $368.88
+Intel Pentium E6800 @ 3.33GHz (28%) 1,375 $24.95*
+Intel Core i3-2105 @ 3.10GHz (27%) 1,363 $113.00
+Intel Core i7-880 @ 3.07GHz (27%) 1,356 $338.97*
+Intel Pentium E6700 @ 3.20GHz (27%) 1,342 $140.19
+Intel Core i3-560 @ 3.33GHz (27%) 1,341 $37.00
+Intel Core i3-550 @ 3.20GHz (27%) 1,339 $167.95
+Intel Pentium G2020T @ 2.50GHz (27%) 1,338 $47.60*
+Intel Celeron G1610 @ 2.60GHz (27%) 1,337 $37.00
+Intel Core i7-940 @ 2.93GHz (27%) 1,336 $49.00
+Intel Pentium G850 @ 2.90GHz (27%) 1,327 $102.00
+Intel Core2 Duo E8500 @ 3.16GHz (27%) 1,324 $129.95*
+Intel Celeron G1620T @ 2.40GHz (27%) 1,321 $42.00*
+Intel Core i7-860 @ 2.80GHz (27%) 1,318 $43.99*
+Intel Pentium G3320TE @ 2.30GHz (26%) 1,314 NA
+Intel Core i5-760 @ 2.80GHz (26%) 1,303 $265.00
+Intel Pentium E5800 @ 3.20GHz (26%) 1,301 $110.19
+Intel Pentium G645 @ 2.90GHz (26%) 1,299 $93.35
+Intel Pentium G640 @ 2.80GHz (26%) 1,299 $30.00
+Intel Core2 Quad Q9650 @ 3.00GHz (26%) 1,290 $54.99
+Intel Core2 Extreme X9650 @ 3.00GHz (26%) 1,284 $859.99*
+Intel Core i7-930 @ 2.80GHz (26%) 1,281 $28.00
+Intel Core2 Duo E7600 @ 3.06GHz (26%) 1,279 $119.95*
+Intel Celeron G555 @ 2.70GHz (26%) 1,275 $75.00
+Intel Core i7-870S @ 2.67GHz (26%) 1,270 NA
+Intel Core i3-540 @ 3.07GHz (25%) 1,264 $169.98
+Intel Pentium G6960 @ 2.93GHz (25%) 1,264 NA
+Intel Core2 Duo E8400 @ 3.00GHz (25%) 1,243 $140.00*
+Intel Core i5-750 @ 2.67GHz (25%) 1,240 $398.00*
+Intel Pentium G840 @ 2.80GHz (25%) 1,239 $49.99*
+Intel Core i7-2655LE @ 2.20GHz (25%) 1,231 NA
+Intel Celeron J4025 @ 2.00GHz (25%) 1,228 NA
+Intel Core2 Extreme Q6850 @ 3.00GHz (25%) 1,227 $1,495.95*
+Intel Core2 Quad Q9550 @ 2.83GHz (25%) 1,225 $325.00
+Intel Core i7-920 @ 2.67GHz (25%) 1,220 $227.21*
+Intel Core i5-2415M @ 2.30GHz (25%) 1,220 NA
+Intel Core2 Quad Q9500 @ 2.83GHz (24%) 1,218 $49.01*
+Intel Pentium G630 @ 2.70GHz (24%) 1,215 $24.99
+Intel Pentium E6500 @ 2.93GHz (24%) 1,212 $95.71
+Intel Pentium G620 @ 2.60GHz (24%) 1,210 $11.99
+Intel Celeron G1610T @ 2.30GHz (24%) 1,207 $14.98*
+Intel Pentium Silver J5005 @ 1.50GHz (24%) 1,205 $521.99*
+Intel Core2 Extreme Q6800 @ 2.93GHz (24%) 1,202 $1,125.00*
+Intel Core2 Duo E7500 @ 2.93GHz (24%) 1,200 $13.90*
+Intel Core2 Duo E6850 @ 3.00GHz (24%) 1,198 $51.20*
+Intel Core i5-3439Y @ 1.50GHz (24%) 1,197 NA
+Intel Celeron G550 @ 2.60GHz (24%) 1,196 $49.00
+Intel Core2 Quad Q9505 @ 2.83GHz (24%) 1,190 $190.00*
+Intel Core i5-2515E @ 2.50GHz (24%) 1,189 NA
+Intel Core i3-2100T @ 2.50GHz (24%) 1,183 $49.87
+Intel Pentium E5700 @ 3.00GHz (24%) 1,182 $69.99
+Intel Pentium G645T @ 2.50GHz (24%) 1,177 NA
+Intel Core i3-530 @ 2.93GHz (24%) 1,177 $115.19
+Intel Celeron J4125 @ 2.00GHz (24%) 1,172 NA
+Intel Core2 Duo E8300 @ 2.83GHz (23%) 1,169 $19.99*
+Intel Celeron E3500 @ 2.70GHz (23%) 1,154 $21.00
+Intel Core2 Quad Q8400 @ 2.66GHz (23%) 1,152 $128.88*
+Intel Pentium E5500 @ 2.80GHz (23%) 1,150 $15.99
+Intel Core i3-2120T @ 2.60GHz (23%) 1,144 $133.89
+Intel Core2 Quad Q9400 @ 2.66GHz (23%) 1,141 $38.01*
+Intel Pentium G6951 @ 2.80GHz (23%) 1,137 $75.00*
+Intel Pentium G3450T @ 2.90GHz (23%) 1,135 NA
+Intel Pentium E6600 @ 3.06GHz (23%) 1,132 $12.99
+Intel Celeron G540 @ 2.50GHz (23%) 1,126 $11.03*
+Intel Core2 Quad Q9450 @ 2.66GHz (23%) 1,124 $35.70*
+Intel Celeron J4005 @ 2.00GHz (23%) 1,122 $168.75*
+Intel Core2 Duo E8200 @ 2.66GHz (22%) 1,118 $75.99*
+Intel Pentium E6300 @ 2.80GHz (22%) 1,117 $41.85*
+Intel Pentium G640T @ 2.40GHz (22%) 1,102 $92.99
+Intel Celeron J4105 @ 1.50GHz (22%) 1,096 $107.00*
+Intel Core2 Duo E7300 @ 2.66GHz (22%) 1,094 $33.07*
+Intel Core2 Duo E7400 @ 2.80GHz (22%) 1,088 $14.99*
+Intel Celeron G530 @ 2.40GHz (22%) 1,088 $48.99
+Intel Core2 Quad Q9300 @ 2.50GHz (22%) 1,087 $68.02*
+Intel Core i5-4302Y @ 1.60GHz (22%) 1,084 NA
+Intel Core2 Extreme Q9200 @ 2.40GHz (22%) 1,080 NA
+Intel Pentium E5400 @ 2.70GHz (22%) 1,079 $92.76
+Intel Core2 Quad Q6700 @ 2.66GHz (22%) 1,075 $99.95*
+Intel Core2 Duo E7200 @ 2.53GHz (22%) 1,075 $47.00*
+Intel Celeron J4115 @ 1.80GHz (22%) 1,074 NA
+Intel Core i3-2330E @ 2.20GHz (21%) 1,063 NA
+Intel Core2 Quad Q8300 @ 2.50GHz (21%) 1,058 $54.46
+Intel Core2 Duo E6700 @ 2.66GHz (21%) 1,054 $29.99*
+Intel Core2 Duo E6750 @ 2.66GHz (21%) 1,051 $10.30*
+Intel Pentium G6950 @ 2.80GHz (21%) 1,050 $77.48
+Intel Core2 Extreme Q9300 @ 2.53GHz (21%) 1,046 NA
+Intel Pentium E5300 @ 2.60GHz (21%) 1,042 $59.49
+Intel Pentium G630T @ 2.30GHz (21%) 1,040 $84.07*
+Intel Core i5 750S @ 2.40GHz (21%) 1,039 $210.19
+Intel Celeron E3300 @ 2.50GHz (21%) 1,032 $64.78
+Intel Core i5 E 520 @ 2.40GHz (21%) 1,032 NA
+Intel Celeron G550T @ 2.20GHz (21%) 1,026 NA
+Intel Core2 Quad Q8200 @ 2.33GHz (20%) 1,011 $63.99*
+Intel Pentium E5200 @ 2.50GHz (20%) 1,008 $49.94
+Intel Celeron E3400 @ 2.60GHz (20%) 1,001 $14.99*
+Intel Core i5-4210Y @ 1.50GHz (20%) 998 NA
+Intel Celeron E3200 @ 2.40GHz (20%) 992 $19.99*
+Intel Core2 Duo E4700 @ 2.60GHz (20%) 985 $26.99*
+Intel Core2 Extreme X6800 @ 2.93GHz (19%) 973 $263.64*
+Intel Celeron G540T @ 2.10GHz (19%) 972 NA
+Intel Core2 Duo E6540 @ 2.33GHz (19%) 969 NA
+Intel Celeron G530T @ 2.00GHz (19%) 966 $16.99*
+Intel Core i5-4300Y @ 1.60GHz (19%) 965 NA
+Intel Pentium G620T @ 2.20GHz (19%) 961 $19.99*
+Intel Core2 Quad Q6600 @ 2.40GHz (19%) 958 $95.60*
+Intel Core2 Duo E6600 @ 2.40GHz (19%) 952 $35.09*
+Intel Core i5-4202Y @ 1.60GHz (19%) 948 NA
+Intel Pentium E2210 @ 2.20GHz (19%) 946 NA
+Intel Core i5-4200Y @ 1.40GHz (19%) 944 NA
+Intel Celeron G470 @ 2.00GHz (19%) 937 $35.15*
+Intel Celeron G1101 @ 2.27GHz (19%) 929 $19.77*
+Intel Pentium J4205 @ 1.50GHz (18%) 914 NA
+Intel Core2 Duo E4600 @ 2.40GHz (18%) 911 $157.95*
+Intel Core2 Duo E6550 @ 2.33GHz (18%) 908 $13.30*
+Intel Pentium E2220 @ 2.40GHz (18%) 892 $55.00
+Intel Celeron E1600 @ 2.40GHz (17%) 877 NA
+Intel Core2 Duo E6400 @ 2.13GHz (17%) 846 $29.94*
+Intel Celeron J3355 @ 2.00GHz (17%) 841 NA
+Intel Pentium E2200 @ 2.20GHz (17%) 837 $54.00
+Intel Core2 Duo E6420 @ 2.13GHz (17%) 836 $39.99*
+Intel Celeron J3455E @ 1.50GHz (17%) 835 NA
+Intel Core2 Duo E4500 @ 2.20GHz (17%) 832 $11.00*
+Intel Pentium Extreme Edition 965 @ 3.73GHz (16%) 818 NA
+Intel Celeron J3455 @ 1.50GHz (16%) 803 $349.00*
+Intel Core i5-3339Y @ 1.50GHz (16%) 799 NA Athlon Dual Core 4450e (16%) 792 NA
+Intel Core i3-4020Y @ 1.50GHz (16%) 785 NA
+Intel Celeron E1500 @ 2.20GHz (16%) 785 $19.65*
+Intel Pentium D 960 @ 3.60GHz (15%) 775 NA
+Intel Core2 Duo E4400 @ 2.00GHz (15%) 766 $42.50*
+Intel Pentium E2180 @ 2.00GHz (15%) 747 $19.50
+Intel Celeron E1400 @ 2.00GHz (15%) 746 $14.00
+Intel Celeron G465 @ 1.90GHz (15%) 739 $40.00
+Intel Celeron G440 @ 1.60GHz (15%) 739 $100.00
+Intel Pentium J2900 @ 2.41GHz (14%) 730 NA
+Intel Core i3-4010Y @ 1.30GHz (14%) 729 NA
+Intel Celeron G1820TE @ 2.20GHz (14%) 728 NA
+Intel Celeron D 360 @ 3.46GHz (14%) 712 NA
+Intel Pentium J3710 @ 1.60GHz (14%) 710 NA
+Intel Celeron G460 @ 1.80GHz (14%) 702 $55.00
+Intel Pentium D 950 @ 3.40GHz (14%) 697 NA
+Intel Core2 Duo E6300 @ 1.86GHz (14%) 690 $127.61*
+Intel Pentium E2160 @ 1.80GHz (14%) 685 $89.00
+Intel Core2 Duo E4300 @ 1.80GHz (13%) 675 $42.50*
+Intel Celeron D 352 @ 3.20GHz (13%) 674 NA
+Intel Pentium 4 3.40GHz (13%) 666 NA
+Intel Celeron J1800 @ 2.41GHz (13%) 661 NA
+Intel Celeron J1750 @ 2.41GHz (13%) 659 NA
+Intel Celeron J1900 @ 1.99GHz (13%) 649 NA
+Intel Pentium J2850 @ 2.41GHz (13%) 646 NA
+Intel Core i3-3229Y @ 1.40GHz (13%) 646 NA
+Intel Core2 Duo E6320 @ 1.86GHz (13%) 642 $39.99*
+Intel Celeron J3060 @ 1.60GHz (12%) 631 NA
+Intel Celeron 430 @ 1.80GHz (12%) 630 $59.95
+Intel Celeron E1200 @ 1.60GHz (12%) 628 $99.95
+Intel Celeron D 356 @ 3.33GHz (12%) 619 NA
+Intel Pentium 4 3.60GHz (12%) 605 NA
+Intel Pentium E2140 @ 1.60GHz (12%) 601 $79.95
+Intel Pentium 4 3.80GHz (12%) 596 NA
+Intel Celeron J3160 @ 1.60GHz (12%) 593 NA
+Intel Pentium D 940 @ 3.20GHz (11%) 574 NA
+Intel Pentium 4 3.73GHz (11%) 572 NA
+Intel Celeron D 347 @ 3.06GHz (11%) 565 NA
+Intel Pentium D 915 @ 2.80GHz (11%) 562 NA
+Intel Pentium 4 3.00GHz (11%) 556 NA
+Intel Pentium 4 3.06GHz (11%) 551 NA
+Intel Pentium 4 3.20GHz (11%) 547 NA
+Intel Atom E3845 @ 1.91GHz (10%) 536 NA
+Intel Pentium D 830 @ 3.00GHz (10%) 535 NA
+Intel Celeron 450 @ 2.20GHz (10%) 532 $38.99*
+Intel Celeron 1047UE @ 1.40GHz (10%) 526 NA
+Intel Celeron 1019Y @ 1.00GHz (10%) 521 NA
+Intel Pentium Extreme Edition 955 @ 3.46GHz (10%) 515 $31.23*
+Intel Pentium 4 3.46GHz (10%) 512 NA
+Intel Pentium 4 2.80GHz (10%) 506 NA
+Intel Pentium D 805 @ 2.66GHz (10%) 497 NA
+Intel Pentium 4 2.60GHz (10%) 494 NA
+Intel Core Duo T2050 @ 1.60GHz (10%) 493 NA
+Intel Celeron 420 @ 1.60GHz (9%) 479 $49.95
+Intel Celeron J1850 @ 1.99GHz (9%) 455 NA
+Intel Celeron 440 @ 2.00GHz (9%) 444 $49.99
+Intel Core Duo L2300 @ 1.50GHz (9%) 442 NA
+Intel Pentium 4 2.53GHz (9%) 442 NA
+Intel Pentium 4 2.66GHz (8%) 431 NA
+Intel Celeron 2.80GHz (8%) 425 NA
+Intel Pentium 4 2.26GHz (8%) 409 NA
+Intel Celeron D 420 @ 1.60GHz (7%) 388 NA
+Intel Atom D2700 @ 2.13GHz (7%) 387 NA
+Intel Pentium 4 2.50GHz (7%) 385 NA
+Intel Pentium 4 2.20GHz (7%) 379 NA
+Intel Atom E3825 @ 1.33GHz (7%) 370 $70.32*
+Intel Pentium 4 2.40GHz (7%) 360 NA
+Intel Atom D2560 @ 2.00GHz (7%) 353 NA
+Intel Pentium 4 2.00GHz (7%) 349 NA
+Intel Atom D2500 @ 1.86GHz (7%) 346 NA
+Intel Celeron 2.00GHz (6%) 338 NA
+Intel Atom D425 @ 1.80GHz (6%) 320 $992.98*
+Intel Pentium 4 1.80GHz (6%) 318 NA
+Intel Pentium 4 1800MHz (6%) 317 NA
+Intel Atom D2550 @ 1.86GHz (6%) 311 NA
+Intel Atom D525 @ 1.80GHz (6%) 308 NA
+Intel Celeron 1.80GHz (6%) 307 NA
+Intel Atom D510 @ 1.66GHz (5%) 292 $97.16*
+Intel Pentium 4 1.90GHz (5%) 292 NA
+Intel Pentium III 1400S @ 1400MHz (5%) 278 NA
+Intel Pentium III 1400 @ 1400MHz (5%) 272 NA
+Intel Pentium 4 2.93GHz (5%) 269 NA
+Intel Pentium 4 1700MHz (5%) 266 NA
+Intel Celeron 220 @ 1.20GHz (5%) 255 NA
+Intel Pentium 4 1.70GHz (5%) 254 NA
+Intel Atom D410 @ 1.66GHz (4%) 243 $635.99*
+Intel Atom E3815 @ 1.46GHz (4%) 238 $135.00*
+Intel Pentium 4 3.83GHz (4%) 237 NA
+Intel Pentium 4 1.50GHz (4%) 228 NA
+Intel Pentium 4 1.60GHz (4%) 225 NA
+Intel Pentium 4 1500MHz (4%) 223 NA
+Intel Pentium 4 1300MHz (4%) 203 NA
+Intel Pentium 4 1400MHz (3%) 180 NA
+Intel Atom 330 @ 1.60GHz (3%) 168 NA
+Intel Atom 230 @ 1.60GHz (3%) 167 NA
